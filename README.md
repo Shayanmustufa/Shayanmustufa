@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shayanmustufa
+- 👋 Hi, I’m @ShayanMustufa
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Projects in C++
